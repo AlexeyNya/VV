@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Первая вёрстка сайта  </title>
+	<h1> Вёрстка домашки Урок №1   </h1>
+	<a target="blank" href="https://www.youtube.com/watch?v=8KjBQSiTP3w&ab_channel=%D0%A4%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-IT%D0%B8%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81"> ссылка на урок </a>
+
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<head/>
+<body>
+<div class="content"> 
+	<div class="content-header">
+	<div class="content-header_category"> Travel </div>
+	<h1 class="content-header_title"> Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. </h1> </div>
+	<div class="content-image">
+	<div class="content-image_item">
+	<img src="css/img/main_photo.jpg" alt="мужик бежит за пивом по горам">  </div> 
+	<div class="content-bottom"> 
+	<div class="content-bottom_text">
+	    <p> Donec aredsed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.</p>
+
+        <p> Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. </p> 
+    </div>
+    <div class="content-bottom-info">
+    	<ul class="content-bottom-info-list">
+    		<li>Put on this page information about your product </li>
+    		<li>A detailed description of your product </li>
+    		<li class="li">Tell us about the advantages and merits </li>
+    		<li class="li">Associate the page with the payment system</li>
+    		
+    	</ul>
+    	<a target="blank" href="https://www.youtube.com/watch?v=8KjBQSiTP3w&ab_channel=%D0%A4%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-IT%D0%B8%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81" class="content-bottom-info_link"> <span>Full Story</span> </a>
+    </div>
+</div>
+</div>
+</div>
+		
+</body>	
+</html>
